@@ -1,0 +1,10 @@
+{
+  "name": "becca",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "David Villarama <david.villarama@producepay.com>",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^4.3.3"
+  }
+}
